@@ -1,0 +1,4854 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d3" for="edge" attr.name="value" attr.type="double"/>
+<key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="condition" attr.type="string"/>
+<key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="astrocyte__Arc">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Arc">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Fos">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Fos">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Igfbp2">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Igfbp2">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Adrb1">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Adrb1">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Adra1a">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Adra1a">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Penk">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Penk">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Tac1">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Tac1">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Camk2b">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Camk2b">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Gria1">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Gria1">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Gria2">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Gria2">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Slc1a3">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Slc1a3">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Gfap">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Gfap">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Syn1">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Syn1">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Map2">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Map2">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Ldha">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Ldha">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="astrocyte__Bdnf">
+  <data key="d0">astrocyte_feature</data>
+</node>
+<node id="neuron__Bdnf">
+  <data key="d0">neuronal_feature</data>
+</node>
+<node id="task_A_animal_000">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_001">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_002">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_003">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_004">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_005">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_006">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_007">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_008">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_009">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_010">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_011">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_012">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_013">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_014">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_015">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_016">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_A_animal_017">
+  <data key="d0">preparation</data>
+  <data key="d1">task_A</data>
+</node>
+<node id="task_B_animal_000">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_001">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_002">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_003">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_004">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_005">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_006">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_007">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_008">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_009">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_010">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_011">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_012">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_013">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_014">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_015">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_016">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<node id="task_B_animal_017">
+  <data key="d0">preparation</data>
+  <data key="d1">task_B</data>
+</node>
+<edge source="astrocyte__Arc" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.091382142857142</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.5317928571428565</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.589971428571429</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.381939285714286</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.479296428571429</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1864678571428575</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.188467857142856</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.048260714285715</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0542107142857144</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.272771428571429</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3111999999999995</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.373514285714285</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.171607142857143</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.061728571428572</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.32105</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.021182142857143</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.986203571428571</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.271635714285714</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.192275</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.130632142857143</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.105796428571429</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.381589285714286</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.250228571428572</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.281878571428571</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.531610714285714</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.001132142857143</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.294125</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.505542857142857</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.814025</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.026253571428571</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.144246428571429</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2235571428571435</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.119389285714285</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.94155</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.862439285714286</data>
+</edge>
+<edge source="astrocyte__Arc" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.443242857142857</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.108867857142857</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.610582142857143</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.762882142857143</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.4800571428571425</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.562010714285714</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.332053571428572</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.223739285714286</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.068185714285714</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.023053571428571</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.252803571428571</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.369192857142857</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.490435714285715</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.318546428571429</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1402535714285715</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.287039285714286</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.993192857142858</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.967828571428571</data>
+</edge>
+<edge source="neuron__Arc" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.262067857142857</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.936739285714286</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.843832142857143</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.775914285714285</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.116646428571428</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.978039285714286</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.848335714285715</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.256560714285714</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.730453571428571</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0137285714285715</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.206353571428571</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.565739285714286</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7679285714285715</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.767542857142857</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.857753571428572</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.852260714285714</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.666567857142858</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.60325</data>
+</edge>
+<edge source="neuron__Arc" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.050242857142857</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.108242857142857</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.564589285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.672517857142857</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.417139285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.522114285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2159821428571425</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.306728571428572</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.950125</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.066239285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.244028571428571</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.309789285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.317278571428572</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.142571428571428</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.057110714285714</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.235167857142857</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.950464285714285</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.952464285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.229100000000001</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.259757142857143</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0955</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.06455</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.392760714285714</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.260453571428571</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.173346428571429</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.653574999999999</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.039746428571428</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.329332142857143</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.485882142857143</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.954485714285714</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.101825</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0703249999999995</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.191617857142857</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0926857142857145</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.920446428571429</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.918889285714286</data>
+</edge>
+<edge source="astrocyte__Fos" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.322592857142857</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.726603571428571</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.196203571428571</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.379075</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.049560714285714</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.191257142857142</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8873999999999995</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.935892857142858</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.659475</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.767785714285714</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.985882142857143</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.943078571428572</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.101510714285714</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.854307142857143</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.857964285714286</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.973725</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.668739285714286</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.664764285714286</data>
+</edge>
+<edge source="neuron__Fos" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.918528571428571</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2331</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.073353571428571</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9771785714285715</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.413378571428572</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.337492857142857</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.162242857142857</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.589714285714286</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.995425</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.266896428571428</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.532271428571429</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.857589285714285</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.001935714285715</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0769</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.165885714285714</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.054892857142858</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.918346428571428</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9502250000000005</data>
+</edge>
+<edge source="neuron__Fos" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.343646428571428</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.858582142857143</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.291075000000001</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.351907142857142</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.075671428571429</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.242132142857143</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.907182142857143</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.923914285714285</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.815417857142857</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.784</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.933667857142857</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.045510714285715</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.039928571428572</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.9477714285714285</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.7918964285714285</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.0062</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.741496428571429</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.662164285714286</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.998585714285714</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.112389285714285</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.064882142857143</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.930392857142857</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.325810714285715</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.106332142857143</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.095742857142858</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.4538142857142855</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.900028571428571</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2373071428571425</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.411110714285714</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.801003571428572</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.045064285714285</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.946539285714286</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.043303571428572</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.017814285714286</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.932957142857143</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.78485</data>
+</edge>
+<edge source="astrocyte__Igfbp2" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.319942857142857</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.055139285714286</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.570553571428571</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.662671428571429</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.4658428571428574</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.422289285714285</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.143267857142858</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1796750000000005</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.999925</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.007564285714286</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.282760714285715</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.311039285714286</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.330296428571429</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.146610714285714</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.132678571428571</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.259728571428572</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.046660714285714</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.007521428571429</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.302103571428572</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.237125</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.101210714285714</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.084557142857143</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.351735714285715</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.285446428571428</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.186317857142858</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.481564285714286</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.036396428571429</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.373303571428571</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.474439285714285</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.859114285714285</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.050485714285714</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.043489285714286</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.131614285714286</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.190060714285714</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.9472000000000005</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.951671428571429</data>
+</edge>
+<edge source="neuron__Igfbp2" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3516571428571424</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.34965</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.754732142857143</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.858446428571428</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.659607142857142</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.723139285714285</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.375978571428571</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.320010714285714</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.200382142857143</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.229328571428572</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.453610714285714</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.528667857142857</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.564871428571428</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.49915</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.290042857142857</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.415542857142857</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2938857142857145</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.134307142857144</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.4591071428571425</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.163217857142857</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.018860714285714</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.005046428571428</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.406935714285715</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2550107142857145</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.070239285714286</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.571282142857143</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.935278571428571</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.226178571428571</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.436707142857143</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.727892857142857</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.017589285714286</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.970460714285714</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0286285714285714</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0676821428571435</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.968307142857142</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8339107142857145</data>
+</edge>
+<edge source="astrocyte__Adrb1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.301310714285714</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.075742857142857</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.468635714285715</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.595696428571428</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.489017857142857</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.497017857142858</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.287185714285714</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.297350000000001</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.9914</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.111314285714286</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2186892857142855</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.292821428571429</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.335732142857142</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.24735</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0359750000000005</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.243560714285715</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.990260714285715</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.9249785714285705</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3147714285714285</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.260292857142857</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.123403571428571</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.130775</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.333989285714286</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.224635714285713</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.164210714285715</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.462239285714285</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.022164285714285</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.331789285714286</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.381782142857142</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.843103571428571</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.069325</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.093464285714285</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.095692857142857</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.076425</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.976417857142857</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.872271428571429</data>
+</edge>
+<edge source="neuron__Adrb1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.394442857142857</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.028632142857143</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.5114</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.516821428571428</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.352521428571428</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.503082142857143</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.141667857142857</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.121392857142857</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.884410714285714</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.964574999999999</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.267024999999999</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.197939285714286</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.289992857142857</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.108846428571428</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9920928571428576</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.216828571428572</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.871142857142857</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.751882142857142</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.207003571428571</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.924732142857144</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.814642857142857</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.718914285714286</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.053546428571428</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.874535714285714</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.7954357142857145</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.235275</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.628203571428571</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.961585714285714</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.108253571428572</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.500296428571429</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.738967857142858</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.817182142857143</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.723960714285715</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.806389285714286</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.521339285714285</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.548</data>
+</edge>
+<edge source="astrocyte__Adra1a" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.038771428571428</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.100089285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.5176107142857145</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.652521428571428</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.412314285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.521978571428571</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.207675</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.173439285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0848821428571425</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.060860714285715</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.253157142857143</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3364142857142856</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3515999999999995</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.218046428571428</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.103428571428571</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.241467857142857</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.009842857142857</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.937775</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.240189285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.287628571428571</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.144035714285714</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.03</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.434339285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.31235</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.204560714285714</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.591121428571428</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.029889285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.317028571428572</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.486757142857143</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.847596428571428</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1083750000000006</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.159953571428572</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.231585714285714</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.029003571428571</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.885514285714286</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.8464</data>
+</edge>
+<edge source="neuron__Adra1a" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.385782142857143</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0835107142857145</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.581989285714286</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.5594535714285715</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.358114285714286</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.509621428571428</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.287132142857144</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.146192857142857</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.020767857142857</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0269321428571425</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.206264285714285</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.327471428571428</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.392653571428572</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.182935714285714</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.245160714285714</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.149671428571429</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.037282142857143</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.902314285714286</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2791500000000005</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.257425</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.136450000000001</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.030510714285714</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.430196428571429</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.29795</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.132996428571429</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.578967857142857</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.964589285714285</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.280921428571429</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.437042857142857</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.849760714285714</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.994782142857143</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.067735714285715</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.086153571428571</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.087832142857143</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0535250000000005</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.895289285714285</data>
+</edge>
+<edge source="astrocyte__Penk" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.393396428571428</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.644732142857143</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.105082142857142</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.137178571428572</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.956632142857143</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">8.11630357142857</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.697460714285714</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.853810714285714</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.642871428571429</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.584025</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.897117857142858</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.882264285714285</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.892614285714286</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.778846428571429</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.690428571428571</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.745864285714285</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.5903857142857145</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.4912</data>
+</edge>
+<edge source="neuron__Penk" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.776085714285714</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.975775</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.81675</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.769546428571429</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.078942857142857</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9972964285714285</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.874732142857143</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1381000000000006</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.792660714285715</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.010778571428571</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.175221428571429</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.491060714285714</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7143250000000005</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.799707142857143</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.858532142857143</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.906364285714285</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.648871428571428</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6502</data>
+</edge>
+<edge source="neuron__Penk" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.067953571428572</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.042739285714285</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.581346428571429</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6611392857142855</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.326282142857143</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.481535714285714</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.108057142857143</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2526142857142855</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.007371428571429</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.988971428571429</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.270521428571429</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3266857142857145</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.413157142857143</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.252110714285714</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.060346428571428</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2773071428571425</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0434</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.948439285714286</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.137082142857143</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2280178571428575</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.087032142857143</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.053417857142857</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.402117857142857</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.223978571428572</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1839</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.60225</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.093660714285714</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.342532142857143</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.463825</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.990010714285715</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.008682142857142</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.123057142857142</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.135567857142857</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.162367857142857</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0270464285714285</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.900289285714286</data>
+</edge>
+<edge source="astrocyte__Tac1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.378778571428571</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.713889285714286</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.215153571428572</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.320314285714285</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.096007142857142</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.240371428571429</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.853775</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.877585714285714</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.708010714285714</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.728864285714286</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.921432142857142</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.026864285714285</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.013414285714285</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0022</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.709735714285714</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.930967857142858</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.680225</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6151035714285715</data>
+</edge>
+<edge source="neuron__Tac1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.892942857142857</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.654453571428571</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.530553571428571</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.436342857142857</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.835832142857143</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.707707142857143</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.618796428571429</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.907135714285714</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.474139285714286</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.639703571428571</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.910417857142858</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.238103571428572</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.419232142857142</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.501803571428572</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.542492857142856</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.542367857142857</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.323917857142858</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.3607321428571435</data>
+</edge>
+<edge source="neuron__Tac1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.705582142857144</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.071925</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.5975214285714285</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.733989285714286</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.420303571428571</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.526867857142856</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.221257142857143</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.217335714285714</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.038339285714286</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.005396428571428</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.273471428571428</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.252657142857143</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.255475</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.188967857142857</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.032357142857143</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.260007142857143</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.000392857142857</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.978314285714285</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.304803571428572</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.268082142857144</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.109699999999999</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.084592857142857</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.388082142857143</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.310264285714285</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.163635714285713</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.567842857142857</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.044846428571428</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.272703571428571</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.486325</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.8868535714285715</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.989278571428572</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.093685714285714</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.127607142857143</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.099364285714286</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.969503571428571</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.920989285714286</data>
+</edge>
+<edge source="astrocyte__Camk2b" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.345635714285714</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.674860714285714</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.275824999999999</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.261389285714286</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.159307142857143</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.104010714285715</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.825121428571428</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.960632142857143</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.700435714285715</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.677407142857143</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.009139285714285</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.059017857142857</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.067621428571429</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.919353571428571</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.768707142857143</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8896749999999995</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6416249999999994</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.597014285714286</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9212</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.973803571428571</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.837407142857144</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.853675</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.126075</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.948742857142856</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.952017857142857</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2377392857142855</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.649935714285715</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.020153571428572</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.113339285714285</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.542575</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.800510714285714</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.789832142857143</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.814217857142857</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.801639285714286</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.616128571428571</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.543567857142857</data>
+</edge>
+<edge source="neuron__Camk2b" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.135417857142857</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.094417857142857</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.635007142857143</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.667928571428571</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.419210714285714</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.507246428571428</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.158685714285714</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.236325</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.004464285714286</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.034325</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.164775</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.4354821428571425</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.324228571428571</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.165267857142857</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.021342857142857</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.156182142857142</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.009185714285715</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.938839285714286</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.201964285714285</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.176724999999999</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.090478571428571</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.058750000000001</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.458342857142857</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.28855</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.157078571428571</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.501610714285714</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.043807142857142</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.329949999999999</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.423546428571428</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.886785714285715</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.099428571428571</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.041021428571428</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.207571428571429</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.120182142857144</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.93285</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.866603571428572</data>
+</edge>
+<edge source="astrocyte__Gria1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.392021428571428</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9926571428571425</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.488789285714286</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.562142857142858</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.325621428571429</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.408821428571429</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.046732142857143</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.097421428571429</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.989810714285714</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.967557142857143</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.202692857142857</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.298675</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.224882142857142</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.150253571428571</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.009307142857144</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.172917857142857</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.899425</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.877210714285715</data>
+</edge>
+<edge source="neuron__Gria1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.173146428571428</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.856689285714286</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.828</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.779003571428571</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.083153571428572</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.944692857142857</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.899757142857142</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.265032142857143</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.674610714285714</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.989857142857143</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.131582142857143</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.533164285714285</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8143392857142855</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.822735714285714</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.876792857142857</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.801621428571429</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.640460714285714</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.617842857142857</data>
+</edge>
+<edge source="neuron__Gria1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.098599999999999</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.102092857142857</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.509314285714285</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.687539285714286</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.4120928571428575</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.498728571428572</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2231749999999995</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.151767857142858</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.07775</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.030885714285715</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.203160714285715</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.272396428571429</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.321153571428572</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.239457142857143</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.026175</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.238407142857143</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.953417857142857</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.852460714285714</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.302167857142857</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.248603571428572</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.177785714285714</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1447392857142855</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.452532142857143</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.357692857142857</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1723</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.52585</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.075660714285715</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3102285714285715</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.428185714285715</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.831307142857143</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.057546428571428</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.093953571428571</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.139121428571428</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1501785714285715</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.893628571428572</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.841521428571428</data>
+</edge>
+<edge source="astrocyte__Gria2" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.314389285714285</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.717567857142858</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.234135714285714</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.256553571428571</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.046021428571429</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.127707142857143</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8964</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9123214285714285</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.754125</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.721028571428572</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.909639285714285</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.048257142857143</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.024553571428571</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.801864285714286</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.786364285714286</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.961817857142857</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7123357142857145</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6045</data>
+</edge>
+<edge source="neuron__Gria2" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.912828571428571</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.197614285714286</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.146075000000001</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.990089285714285</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.404592857142857</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.142489285714285</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1366000000000005</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.5185</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.992003571428571</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.303435714285714</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.471342857142857</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.907567857142857</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.042375</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.051771428571429</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.143846428571429</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.956060714285714</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9811</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.843692857142857</data>
+</edge>
+<edge source="neuron__Gria2" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.366071428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.959896428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.444878571428572</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.530103571428572</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.329421428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.420425000000001</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1568</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.237471428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.936653571428572</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.963132142857143</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.139125</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.270592857142858</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.191835714285714</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.075682142857143</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.032171428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.229321428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.962882142857143</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8291892857142855</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1028</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.163217857142857</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.022589285714285</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.94465</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.323696428571429</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2011642857142855</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.096207142857144</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.391446428571428</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.966535714285714</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2814</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.423825</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.866839285714286</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.014764285714286</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.990364285714286</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.146546428571428</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.031603571428571</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.883560714285714</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.772621428571428</data>
+</edge>
+<edge source="astrocyte__Slc1a3" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.219767857142857</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.064214285714286</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.547957142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6041</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.400035714285714</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.559264285714286</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.150435714285714</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.231646428571429</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.070353571428571</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.994535714285715</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.187307142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.263496428571429</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.312657142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.207167857142857</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.115603571428571</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.216864285714286</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.019367857142858</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.995482142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.329992857142857</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.211232142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.078921428571428</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.96725</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.408285714285715</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.253507142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.172067857142857</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.617114285714286</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.038332142857143</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3288</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.520660714285714</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.882789285714286</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.079428571428571</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.058953571428572</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.188746428571428</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.057117857142857</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.013485714285714</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.883674999999999</data>
+</edge>
+<edge source="neuron__Slc1a3" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.505196428571429</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.027042857142858</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.5547249999999995</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.569235714285715</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.296489285714286</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.366853571428571</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.142239285714285</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.086135714285715</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9046964285714285</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.887521428571428</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.159882142857143</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.220596428571429</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.193557142857143</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.111603571428572</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.929203571428571</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.116892857142857</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9530964285714285</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.859089285714285</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1993</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.160878571428571</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.100864285714286</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.933096428571429</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.306321428571429</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.177060714285714</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.100675000000001</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.4810428571428575</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.923535714285714</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.256167857142857</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.398325</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.826557142857142</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.017678571428571</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.898242857142857</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.075057142857142</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.071778571428572</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.802610714285714</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.825989285714286</data>
+</edge>
+<edge source="astrocyte__Gfap" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.329592857142857</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.052157142857142</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.556410714285714</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.710982142857143</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.396042857142858</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.4393</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2389535714285715</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.279503571428571</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.002678571428571</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.112217857142857</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.245171428571429</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.261932142857143</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.237660714285715</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2158999999999995</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1167428571428575</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.323014285714286</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.932367857142857</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.953428571428572</data>
+</edge>
+<edge source="neuron__Gfap" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.218503571428571</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.224085714285714</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.130596428571429</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.054578571428571</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.421585714285714</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.203621428571429</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2178571428571425</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6273285714285715</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.9951857142857135</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.397864285714285</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.5151642857142855</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.8618428571428565</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.982349999999999</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.024121428571428</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.172167857142857</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.172639285714285</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.920957142857143</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.935242857142858</data>
+</edge>
+<edge source="neuron__Gfap" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.392235714285714</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.142742857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.565928571428572</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.629542857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.425721428571428</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.474685714285714</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.237371428571429</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.175317857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.995232142857143</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.044710714285714</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2796964285714285</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.335735714285714</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.362367857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.214621428571428</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1595892857142855</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.274617857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.966810714285714</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.950396428571429</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.279596428571429</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2699107142857144</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.117064285714286</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.089296428571429</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.440903571428572</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.311942857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.195457142857143</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.524389285714286</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.951064285714286</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.333660714285714</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.418842857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.837739285714286</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.146567857142857</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.051007142857143</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.149614285714286</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.064707142857143</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.900399999999999</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.789832142857143</data>
+</edge>
+<edge source="astrocyte__Syn1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3999999999999995</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.803607142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.270585714285715</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.288614285714286</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.089685714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.245360714285715</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.905967857142857</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.905132142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6933178571428575</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.719132142857142</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9506749999999995</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.068085714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.057710714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.907832142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.740371428571429</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.939785714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.694475</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.644285714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.912553571428572</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.944667857142858</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7932</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.74895</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.095221428571429</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.051017857142858</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.883082142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.162542857142857</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.756832142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.941132142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.148000000000001</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.542867857142857</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.694260714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.743271428571428</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.840778571428571</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.823785714285714</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.628614285714286</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.548682142857143</data>
+</edge>
+<edge source="neuron__Syn1" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.079357142857143</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.051846428571428</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.493489285714285</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.643210714285714</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.407792857142858</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.531289285714286</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.189435714285715</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.212017857142857</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.019442857142857</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.082621428571429</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.238753571428572</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.330235714285714</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.250260714285714</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.252660714285715</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0692</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2880964285714285</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.022914285714286</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.829357142857143</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.275075</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.306060714285715</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.044200000000001</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.100839285714286</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.407632142857143</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.245278571428571</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.191828571428571</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.546678571428571</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.017817857142857</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3401250000000005</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.554475000000001</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.760896428571429</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.080214285714286</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.112332142857142</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.162750000000001</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.160482142857143</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.944932142857143</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.9229392857142855</data>
+</edge>
+<edge source="astrocyte__Map2" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.396835714285714</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.778021428571429</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.210678571428572</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.381607142857143</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0981821428571426</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.156525</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.880542857142857</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.900214285714285</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.6933178571428575</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7418</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.952678571428572</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.007896428571429</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.0555392857142865</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9535535714285714</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.875178571428571</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.888599999999999</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.761871428571429</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.608289285714286</data>
+</edge>
+<edge source="neuron__Map2" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.914185714285714</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.979228571428571</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.833685714285714</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.757617857142857</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.1880749999999995</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.973496428571429</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9134</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.201903571428572</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.796496428571428</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.922460714285714</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.175689285714285</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.53795</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.749032142857144</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7528500000000005</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.816771428571428</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.853339285714285</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.592178571428571</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.582725000000001</data>
+</edge>
+<edge source="neuron__Map2" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.045335714285714</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.027971428571428</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.490392857142857</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.508307142857142</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.421646428571428</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.427314285714286</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.083007142857142</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.150810714285714</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.999157142857143</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.048125</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.185389285714286</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.234546428571428</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.222821428571429</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.153567857142858</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.025346428571429</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.058896428571429</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.818071428571429</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.848692857142857</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2300571428571425</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.541964285714286</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.389621428571429</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.421539285714286</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.781460714285714</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.596482142857143</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.461639285714286</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.863557142857142</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2586</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.589517857142857</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.719939285714285</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.249728571428571</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.4598</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.2954357142857145</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.493835714285715</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.429271428571428</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.288989285714286</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.189</data>
+</edge>
+<edge source="astrocyte__Ldha" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.7268678571428575</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.055460714285714</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.565767857142857</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.664935714285714</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.462339285714286</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.522628571428571</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.159985714285715</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.267482142857142</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.023753571428571</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.992992857142857</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.195521428571429</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.228382142857143</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.299264285714286</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1781500000000005</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.043235714285714</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.219089285714285</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.948089285714286</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.984692857142858</data>
+</edge>
+<edge source="neuron__Ldha" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.163357142857143</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.2492</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1081392857142855</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.1697</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.384524999999999</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3222000000000005</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.192328571428571</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.601907142857143</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.000678571428572</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3085821428571425</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.366514285714286</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.922632142857142</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0644</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.117275</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.149610714285714</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.111032142857143</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.9113</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.959828571428572</data>
+</edge>
+<edge source="neuron__Ldha" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.377728571428571</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.098957142857143</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.661621428571428</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.646146428571429</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.352803571428572</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.436732142857143</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.142028571428571</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.296828571428572</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.049903571428572</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.973167857142856</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.171810714285714</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.307346428571429</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.3504000000000005</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.250117857142857</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.075539285714286</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.234367857142857</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.960446428571428</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.019717857142857</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.263989285714286</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.188353571428571</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.15395</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.027460714285715</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.366275</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.291653571428571</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.220182142857142</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.56365</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.049446428571429</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.401207142857143</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.469492857142858</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.875732142857143</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.007960714285715</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.102642857142857</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.184907142857143</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.192717857142857</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.0004</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">5.884935714285715</data>
+</edge>
+<edge source="astrocyte__Bdnf" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.295614285714286</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.8387714285714285</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.234992857142857</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.329817857142857</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.17295</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.173703571428571</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.916014285714286</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.874842857142857</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.687696428571429</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.7363928571428575</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.996246428571429</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.999989285714285</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.055339285714285</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.917071428571428</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.762914285714286</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.957578571428571</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.687296428571429</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.739275</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_A_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.940957142857143</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_000">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.896671428571429</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_001">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.787089285714286</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_002">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.725421428571429</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_003">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.103596428571429</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_004">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.961892857142857</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_005">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.884489285714286</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_006">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.231396428571428</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_007">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.665282142857143</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_008">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.9947857142857135</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_009">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.116917857142857</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_010">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.493457142857143</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_011">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.783275000000001</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_012">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.796967857142858</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_013">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.808485714285714</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_014">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.870732142857143</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_015">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.659007142857143</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_016">
+  <data key="d2">measured_expression</data>
+  <data key="d3">6.557253571428572</data>
+</edge>
+<edge source="neuron__Bdnf" target="task_B_animal_017">
+  <data key="d2">measured_expression</data>
+  <data key="d3">7.052964285714286</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,52 @@
+{
+  "source": "outputs/demo/synthetic_input/cells.csv",
+  "data_origin": [
+    "SYNTHETIC"
+  ],
+  "n_cells": 3024,
+  "n_preparations": 54,
+  "genes": [
+    "Arc",
+    "Fos",
+    "Igfbp2",
+    "Adrb1",
+    "Adra1a",
+    "Penk",
+    "Tac1",
+    "Camk2b",
+    "Gria1",
+    "Gria2",
+    "Slc1a3",
+    "Gfap",
+    "Syn1",
+    "Map2",
+    "Ldha",
+    "Bdnf"
+  ],
+  "warnings": [],
+  "claims_not_supported": [
+    "RNA transferred between cells",
+    "memory content was copied",
+    "causal astrocyte contribution",
+    "connectivity inferred from expression alone"
+  ],
+  "models": [
+    {
+      "model": "neuron_only",
+      "balanced_accuracy": 1.0,
+      "macro_F1": 1.0,
+      "folds": 5,
+      "unit": "preparation",
+      "n_preparations": 36
+    },
+    {
+      "model": "neuron_plus_astrocyte",
+      "balanced_accuracy": 1.0,
+      "macro_F1": 1.0,
+      "folds": 5,
+      "unit": "preparation",
+      "n_preparations": 36
+    }
+  ],
+  "graph_note": "GraphML edges are sample-feature associations, NOT neuron-neuron connectivity or RNA transfer."
+}

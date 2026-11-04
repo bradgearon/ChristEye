@@ -1,0 +1,7 @@
+study,condition,behavior_domain,phase,description,evidence_level,source_url,per_mouse_value_available_in_this_project,matched_expression_and_behavior_available_in_this_project
+GSE246147,fear_conditioning,conditioned_fear,conditioning,fear-related experimental cohort,group_annotation_only,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246147,False,False
+GSE246147,fear_recall,conditioned_fear,recall,fear-recall experimental cohort,group_annotation_only,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246147,False,False
+GSE272414,NoFC,conditioned_fear,control,no fear conditioning,group_annotation_only,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272414,False,False
+GSE272414,FC,conditioned_fear,conditioning,fear conditioning,group_annotation_only,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272414,False,False
+GSE272414,NoFR,conditioned_fear,recall_control,no fear recall,group_annotation_only,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272414,False,False
+GSE272414,FR,conditioned_fear,recall,fear recall,group_annotation_only,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272414,False,False

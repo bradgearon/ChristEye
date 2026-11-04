@@ -1,0 +1,3 @@
+model,balanced_accuracy,macro_F1,folds,unit,n_preparations
+neuron_only,1.0,1.0,5,preparation,36
+neuron_plus_astrocyte,1.0,1.0,5,preparation,36

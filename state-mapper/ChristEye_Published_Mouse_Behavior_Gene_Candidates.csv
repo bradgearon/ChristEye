@@ -1,0 +1,14 @@
+study,behavior_condition,gene,compartment,evidence_class,careful_interpretation,organism,published_data_analyzed_by_this_project,source_reference
+GSE246147,fear_conditioning,Penk,neuron,published_memory_associated_program,Sun et al. report increased Penk in a fear-memory-associated neuronal population,Mus musculus,False,https://doi.org/10.1038/s41586-023-07011-6
+GSE246147,fear_recall,Penk,neuron,published_memory_associated_program,The published cell population is memory-associated; not a per-mouse behavior decoder,Mus musculus,False,https://doi.org/10.1038/s41586-023-07011-6
+GSE246147,fear_recall,Tac1,neuron,investigational_marker,Paper reports lower Tac-family expression; verify exact gene identifier in the matrix,Mus musculus,False,https://doi.org/10.1038/s41586-023-07011-6
+GSE246147,fear_recall,Arc,neuron,investigational_marker,Plasticity-associated transcript; not memory content by itself,Mus musculus,False,https://doi.org/10.1038/s41586-023-07011-6
+GSE246147,fear_recall,Fos,neuron,investigational_marker,Neural activity-associated transcript; not fear-specific,Mus musculus,False,https://doi.org/10.1038/s41586-023-07011-6
+GSE246147,fear_recall,Bdnf,neuron,investigational_marker,Candidate neurotrophic/plasticity feature,Mus musculus,False,https://doi.org/10.1038/s41586-023-07011-6
+GSE272414,FC,Adrb1,astrocyte,investigational_marker,Noradrenaline-receptor priming is reported; receptor-specific direction needs dataset analysis,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2
+GSE272414,FC,Adra1a,astrocyte,investigational_marker,Noradrenaline-receptor candidate; specific change not established here,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2
+GSE272414,FR,Igfbp2,astrocyte,published_memory_stabilization_association,Astrocyte IGFBP2 involved in post-recall stabilization,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2
+GSE272414,FR,Fos,astrocyte,published_astrocyte_ensemble_marker,Fos-expressing astrocyte ensemble associated with recall,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2
+GSE272414,FR,Arc,astrocyte,investigational_marker,Do not assume astrocytic ARC is a direct transfer signal,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2
+GSE272414,NoFC,Igfbp2,astrocyte,control_marker,Baseline group for contrast; direction not inferred,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2
+GSE272414,NoFR,Igfbp2,astrocyte,control_marker,No-recall group; direction not inferred,Mus musculus,False,https://doi.org/10.1038/s41586-025-09619-2

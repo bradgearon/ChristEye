@@ -1,0 +1,8 @@
+{
+  "n_candidates": 3,
+  "status_counts": {
+    "not_established": 2,
+    "functional_candidate": 1
+  },
+  "limitation": "Even functional candidates require independent causal evidence to demonstrate transfer of learned content."
+}

@@ -1,0 +1,4 @@
+donor_id,recipient_id,cargo_id,source_identified,recipient_entry_verified,contamination_excluded,functional_change_verified,data_origin
+n001,n002,Arc,True,True,False,False,SYNTHETIC
+n003,n004,Arc,True,True,True,True,SYNTHETIC
+n005,n006,Igfbp2,False,False,False,False,SYNTHETIC
