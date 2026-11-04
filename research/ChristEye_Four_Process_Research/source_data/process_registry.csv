@@ -1,0 +1,5 @@
+category,ChristEye_label,scientific_operationalization,candidate_features,benefit_harm_depends_on,unit_requirement
+external_damage,Honey of Evil,Extracellular signal patterns associated with propagation of dysfunction,"SASP cytokines; CCL2; MIF; IL-1beta; DAMPs",cell_type_context_duration,"Measured concentration per ligand"
+internal_dysfunction,Milk of Evil,Persistent cell states maintaining impaired function,"DNA damage; mitochondrial dysfunction; p16/p21 with other markers; chronic reactive programs",cell_type_stage,"Composite score validated by independent measurements"
+external_repair,Honey of Good,Extracellular signals promoting resolution and appropriately bounded repair,"resolution-related lipid mediators; context-specific trophic cues; immune clearance signals",injury_type_dose_timing,"Measured concentration and receptor engagement"
+internal_support,Milk of Good,Homeostasis and capacity for accurate function,"ion regulation; metabolic support; mitochondrial integrity; synaptic support; physiological recovery",developmental_state,"Validated function and viability measures"

@@ -1,0 +1,50 @@
+{
+  "bukalo_2026": {
+    "status": "illustrative",
+    "n_train_animals": 25,
+    "n_test_animals": 11,
+    "roc_auc": 0.833,
+    "balanced_accuracy": 0.733,
+    "features": [
+      "astro_Ca_AUC",
+      "extinction_discrimination",
+      "memory_retrieval_pct"
+    ]
+  },
+  "dewa_2025": {
+    "status": "illustrative",
+    "n_train_animals": 25,
+    "n_test_animals": 11,
+    "roc_auc": 0.679,
+    "balanced_accuracy": 0.75,
+    "features": [
+      "IGFBP2_score",
+      "astrocyte_Fos_score",
+      "retention_pct"
+    ]
+  },
+  "guayasamin_2025": {
+    "status": "illustrative",
+    "n_train_animals": 25,
+    "n_test_animals": 11,
+    "roc_auc": 0.278,
+    "balanced_accuracy": 0.528,
+    "features": [
+      "Cx43_normalized",
+      "astro_Ca_frequency",
+      "neutral_cue_freezing_pct"
+    ]
+  },
+  "senescence_2026": {
+    "status": "illustrative",
+    "n_train_animals": 25,
+    "n_test_animals": 11,
+    "roc_auc": 0.8,
+    "balanced_accuracy": 0.817,
+    "features": [
+      "CCL2_proxy",
+      "MIF_proxy",
+      "p21_proxy"
+    ]
+  }
+}

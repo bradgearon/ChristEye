@@ -1,0 +1,8 @@
+study_id,source_figure,measure,reported_direction,reported_p,reported_n_independent,provenance,raw_value_status
+"guayasamin_2025","Figure 3G","Cx43 staining","lower after early-life stress",0.008,"control N=11; ELS N=14","eLife figures; authors' published statistics","NO individual observations included"
+"guayasamin_2025","Figure 4F","astrocyte Ca event frequency","lower after early-life stress",0.0001,"naive N=8 mice; ELS N=7 mice","eLife figure; reported p<0.0001","NO individual observations included"
+"guayasamin_2025","Figure 5E","neutral cue freezing","higher with astrocyte dysfunction","<0.0001","control N=12; CalEx N=11; dnCx43 N=17","eLife figures; control vs CalEx p<0.0001","NO individual observations included"
+"bukalo_2026","Figure 1k","astrocyte versus neuron Ca peak latency","astrocyte peak later",0.0021,"N=5 mice per group","Nature text; latency comparison","NO individual observations included"
+"bukalo_2026","Figure 1p","astrocyte decoding of CS","above-chance decoding",0.0265,"N=6 mice, 110 events","Nature text; event-level samples not independent animals","NO individual observations included"
+"dewa_2025","Article overview","astrocyte priming and IGFBP2","associated with memory stabilization","","varies by figure","Nature article and study supplements","NO individual observations included"
+"senescence_2026","Figure 3F","elevated cytokines in astrocyte / microglia CM","23 and 69 elevated; 16 shared","","n depends on assay","Aging Cell article","NO individual observations included"

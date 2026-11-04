@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="study_id" attr.type="string"/>
+<key id="d1" for="edge" attr.name="evidence_level" attr.type="string"/>
+<key id="d0" for="edge" attr.name="relationship" attr.type="string"/>
+<graph edgedefault="directed"><node id="Early life stress"/>
+<node id="Astrocyte Cx43"/>
+<node id="Neural cue discrimination"/>
+<node id="Astrocyte calcium"/>
+<node id="Amygdala neuronal representation"/>
+<node id="Fear retrieval"/>
+<node id="Astrocyte priming"/>
+<node id="IGFBP2"/>
+<node id="Memory stabilization"/>
+<node id="Senescent astrocytes"/>
+<node id="SASP secretion"/>
+<node id="Senescent microglia"/>
+<node id="Secondary senescence"/>
+<node id="Inflammation"/>
+<edge source="Early life stress" target="Astrocyte Cx43" id="0">
+  <data key="d0">associated decrease</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">guayasamin_2025</data>
+</edge>
+<edge source="Astrocyte Cx43" target="Neural cue discrimination" id="0">
+  <data key="d0">loss of astrocyte communication impairs</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">guayasamin_2025</data>
+</edge>
+<edge source="Astrocyte calcium" target="Neural cue discrimination" id="0">
+  <data key="d0">decreased activity impairs</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">guayasamin_2025</data>
+</edge>
+<edge source="Astrocyte calcium" target="Amygdala neuronal representation" id="0">
+  <data key="d0">enables</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">bukalo_2026</data>
+</edge>
+<edge source="Amygdala neuronal representation" target="Fear retrieval" id="0">
+  <data key="d0">participates</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">bukalo_2026</data>
+</edge>
+<edge source="Astrocyte priming" target="IGFBP2" id="0">
+  <data key="d0">recall associated induction</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">dewa_2025</data>
+</edge>
+<edge source="IGFBP2" target="Memory stabilization" id="0">
+  <data key="d0">contributes</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">dewa_2025</data>
+</edge>
+<edge source="Senescent astrocytes" target="SASP secretion" id="0">
+  <data key="d0">produce</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">russo_2026</data>
+</edge>
+<edge source="SASP secretion" target="Secondary senescence" id="0">
+  <data key="d0">can contribute</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">russo_2026</data>
+</edge>
+<edge source="SASP secretion" target="Astrocyte calcium" id="0">
+  <data key="d0">may perturb</data>
+  <data key="d1">hypothesis_cross_study</data>
+  <data key="d2">proposed</data>
+</edge>
+<edge source="SASP secretion" target="Neural cue discrimination" id="0">
+  <data key="d0">may lower fidelity</data>
+  <data key="d1">hypothesis_cross_study</data>
+  <data key="d2">proposed</data>
+</edge>
+<edge source="Senescent microglia" target="SASP secretion" id="0">
+  <data key="d0">produce</data>
+  <data key="d1">direct_in_study</data>
+  <data key="d2">russo_2026</data>
+</edge>
+<edge source="Inflammation" target="IGFBP2" id="0">
+  <data key="d0">may alter priming</data>
+  <data key="d1">hypothesis_cross_study</data>
+  <data key="d2">proposed</data>
+</edge>
+</graph></graphml>

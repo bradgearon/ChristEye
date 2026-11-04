@@ -1,0 +1,11 @@
+column,required,description
+study_id,yes,Must be a validated single-study identifier
+animal_id,yes,Independent animal or preparation/biological-replicate identifier; never fabricated
+condition,yes,Measured experimental condition
+measure,yes,Unique measurement name and units recorded separately
+value,yes,Numeric real observation
+phase,optional,Experimental phase: acquisition/recall/extinction etc
+cue,optional,CSplus/CSminus or relevant nonfear task
+batch,optional,Experimental batch
+synthetic,optional,True only for demonstration data
+source,optional,Exact downloaded source path or provenance reference

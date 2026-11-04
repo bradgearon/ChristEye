@@ -1,0 +1,13 @@
+{
+  "study_id": "guayasamin_2025",
+  "unit_id_col": "mouse_id",
+  "condition_col": "condition",
+  "phase_col": "phase",
+  "cue_col": "cue",
+  "batch_col": "batch",
+  "measure_cols": {
+    "freezing_pct": "freezing_pct",
+    "cx43_normalized": "Cx43_normalized",
+    "astro_ca_frequency": "astro_Ca_frequency"
+  }
+}

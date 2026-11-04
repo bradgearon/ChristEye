@@ -1,0 +1,13 @@
+item,quantity,budget_USD_estimate,role
+Laptop or existing PC,1,existing,Offline analysis and CSV logging
+Clear polypropylene storage enclosure ~60×40×40 cm,1,$25–60,~96 L internal nominal volume; measure actual usable volume
+Off-the-shelf sealed HEPA cartridge,1,$15–45,Consumer filter; sealed holder; not radiological service
+Small enclosed low-voltage DC blower,1,$15–35,5–12 V; recirculates only inside chamber
+Separate low-voltage fan power controller,1,$12–35,"Certified adapter, switch, inline fuse, PWM only if supported"
+"Optical particle sensor module, e.g. SPS30",2,$30–75 each,One inside and one ambient reference
+Temperature / humidity sensor breakout,1,$10–25,Track sensor bias from RH
+Pico 2 W or comparable USB-capable MCU,1,$6–20,"Optional logger, 3.3V logic"
+3.3V/5V-compatible interface board + cabling,1,$15–35,No direct 5V signal into 3.3V GPIO
+"Gasket tape, mounts, glands, brackets",set,$15–40,No leaks or exposed moving blades
+Simple handheld vane anemometer,1,$20–60,"Verify airflow near outlet, bench-only"
+Commercial radiation meter,optional,$80–450+,Never rely on low-cost hobby meters for safety decisions

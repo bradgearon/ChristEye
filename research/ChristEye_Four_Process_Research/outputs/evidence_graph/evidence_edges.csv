@@ -1,0 +1,14 @@
+source,target,relationship,evidence_level,study_id,interpretation
+Early life stress,Astrocyte Cx43,associated decrease,direct_in_study,guayasamin_2025,Stress versus senescence distinct
+Astrocyte Cx43,Neural cue discrimination,loss of astrocyte communication impairs,direct_in_study,guayasamin_2025,Manipulation supports causal role
+Astrocyte calcium,Neural cue discrimination,decreased activity impairs,direct_in_study,guayasamin_2025,Acquisition may be intact while neutral cue response changes
+Astrocyte calcium,Amygdala neuronal representation,enables,direct_in_study,bukalo_2026,Specific studied fear-memory circuit
+Amygdala neuronal representation,Fear retrieval,participates,direct_in_study,bukalo_2026,Not a universal memory decoder
+Astrocyte priming,IGFBP2,recall associated induction,direct_in_study,dewa_2025,Astrocyte memory stabilization not independent storage proven
+IGFBP2,Memory stabilization,contributes,direct_in_study,dewa_2025,Mouse experiments
+Senescent astrocytes,SASP secretion,produce,direct_in_study,russo_2026,Human brain cell-culture senescence assay
+Senescent microglia,SASP secretion,produce,direct_in_study,russo_2026,Cell culture not animal behavior
+SASP secretion,Secondary senescence,can contribute,direct_in_study,russo_2026,Paracrine model
+SASP secretion,Astrocyte calcium,may perturb,hypothesis_cross_study,proposed,Unverified direct mechanistic connection
+SASP secretion,Neural cue discrimination,may lower fidelity,hypothesis_cross_study,proposed,Not demonstrated in one study
+Inflammation,IGFBP2,may alter priming,hypothesis_cross_study,proposed,No established full chain
